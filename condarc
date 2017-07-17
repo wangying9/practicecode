@@ -2,6 +2,9 @@ ssl_verify: 'True'
 channels:
   - anaconda-fusion
   - defaults
+<<<<<<< HEAD:condarc.txt
 add one line
 add another line
 ffff
+=======
+>>>>>>> parent of 2be64dc... second:condarc
